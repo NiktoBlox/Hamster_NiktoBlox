@@ -4,4 +4,4 @@
 
 Credit:[abowman](https://www.abowman.com)
 
-# [🐭前往體驗](https://github.com/NiktoBlox/Hamster_NiktoBlox)
+# [🐭前往體驗](https://niktoblox.github.io/Hamster_NiktoBlox/)
